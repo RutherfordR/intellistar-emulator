@@ -9,7 +9,8 @@ window.CONFIG = {
   secrets: {
     // Possibly deprecated key: See issue #29
     // twcAPIKey: 'd522aa97197fd864d36b418f39ebb323'
-    twcAPIKey: '21d8a80b3d6b444998a80b3d6b1449d3'
+    twcAPIKey: 'e1f10a1e78da46f5b10a1e78da96f525'
+    // Possible MapBox API Key: 'pk.eyJ1Ijoid2VhdGhlciIsImEiOiJjamxnc3NsbHExYXkyM3FwYWllN3FhYnZ3In0.mX6H3_kilkaK01_Q-Htz3A'
   },
 
   // Config Functions (index.html settings manager)
